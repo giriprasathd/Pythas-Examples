@@ -7,8 +7,8 @@ It will **grow** with time and stay up to date with the master branch of ```Pyth
 
 The examples are contained in Jupyter Notebooks in the ```notebooks``` directory. Its subdirectories contain the accompanying Haskell code.
 
-0. [Appetizer using ```matplotlib``` to analyze a toy world-model implemented in Haskell](notebooks/0 - Wonderland.ipynb)
-1. [Introduction to ```Pythas``` going over its accompanying ```Examples.hs``` module](notebooks/1 - Simple functions.ipynb)
+0. Appetizer using ```matplotlib``` to analyze a toy world-model implemented in Haskell - notebooks/0 - Wonderland.ipynb
+1. Introduction to ```Pythas``` going over its accompanying ```Examples.hs``` module  - notebooks/1 - Simple functions.ipynb
 
 ## Install / Dependencies
 
